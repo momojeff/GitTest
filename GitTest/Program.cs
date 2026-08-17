@@ -3,3 +3,4 @@ Console.WriteLine("Changed by feature branch");
 Console.WriteLine("New feature");
 Console.WriteLine("Changed from Remote");
 Console.WriteLine("Changed from local");
+Console.WriteLine("Pull Request Test");
